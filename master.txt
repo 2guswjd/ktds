@@ -1,16 +1,1 @@
-from ktds
-
-<<<<<<< HEAD
-﻿git 포기한상태야
-중지해써
-손으로 다음 과정을 해준당!
-다른 브랜치나 rebase하면 안돼
-스테이지 올리고 커밋까지 한 후에 다른 일을 한다.
---
-from master!!
-=======
-﻿from testing!!
->>>>>>> testing
-
-
-이렇게 하면 안된다!!
+from ktds and ktds2

@@ -1,3 +1,5 @@
+from ktds
+
 <<<<<<< HEAD
 ﻿git 포기한상태야
 중지해써

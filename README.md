@@ -1,5 +1,5 @@
 # ktds
-GitHub repository
+## GitHub repository
 ===========================================
 add content
 버그가 있는 걸 스테이지에 올리면?

@@ -9,3 +9,6 @@ from master!!
 =======
 ﻿from testing!!
 >>>>>>> testing
+
+
+이렇게 하면 안된다!!
